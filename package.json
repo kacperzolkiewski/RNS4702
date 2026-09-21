@@ -10,10 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@callstack/liquid-glass": "^0.8.2",
+    "@react-native/new-app-screen": "0.86.3",
+    "@react-navigation/bottom-tabs": "8.0.0-alpha.53",
+    "@react-navigation/native": "8.0.0-alpha.47",
+    "@react-navigation/native-stack": "8.0.0-alpha.55",
     "react": "19.2.3",
     "react-native": "0.86.3",
-    "@react-native/new-app-screen": "0.86.3",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-safe-area-context": "^5.10.0",
+    "react-native-screens": "4.28.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
